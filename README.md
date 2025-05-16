@@ -1,5 +1,6 @@
 🧾 ResumeMint – AI Resume Builder
-ResumeMint is a simple yet powerful AI-based resume builder built using **Streamlit** and **Python OOP** principles. It allows users to log in, build professional resumes, and download them in PDF format after a simulated payment.
+
+**ResumeMint** is a simple yet powerful AI-based resume builder built using **Streamlit** and **Python OOP** principles. It allows users to log in, build professional resumes, and download them in PDF format after a simulated payment.
 
 🚀 Features
 
